@@ -1,0 +1,7 @@
+INFO:     Will watch for changes in these directories: ['/home/ubuntu/algo-trader/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [107499] using StatReload
+INFO:     Started server process [107501]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Stopping reloader process [107499]
